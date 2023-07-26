@@ -65,7 +65,7 @@ The dynamics of the B2B world differ from the B2C or C2C setups. In B2B transact
 
 
 ---
-## :iphone: Screenshots
+##  Screenshots
 
 
 
